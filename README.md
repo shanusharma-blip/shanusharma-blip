@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanusharma-blip
+- 👋 Hi, I’m @shanusharma
 - 👀 I’m interested in coding and data science
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on coding or website developing projects
